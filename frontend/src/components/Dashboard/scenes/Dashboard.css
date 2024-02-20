@@ -1,0 +1,62 @@
+/* .maindash{
+    background-color:#272D55;
+    }
+    .typographs{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 2em;
+    }
+    .dashcards{
+      height: 30vh;
+      width: 70%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center; 
+      border-radius: 1em;
+    }
+    .dashcard1{
+      background-color: #F2B035;
+      color: white;
+    }
+    .dashcard2{
+      background-color: #F2B035;
+    }
+    .dashcard3{
+      background-color: #F2B035;
+    } */
+.maindash{
+  background-color:#272D55;
+  margin-top: -3em;
+}
+
+.typographs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}
+
+.dashcards{
+  height: 30vh;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1em;
+}
+
+.dashcard1{
+  background-color: #F2B035;
+  color: white;
+}
+
+.dashcard2{
+  background-color: #F2B035;
+}
+
+.dashcard3{
+  background-color: #F2B035;
+}

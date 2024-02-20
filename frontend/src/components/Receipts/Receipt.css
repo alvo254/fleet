@@ -1,0 +1,46 @@
+.applogo img{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+    float: right;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.receiptDetails{
+    margin-top: 2em;
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    justify-content: space-around;
+    align-items: center; 
+}
+.receiptId{
+    float: right;
+}
+hr{
+    color: #f2b035;
+    width: 100%;
+}
+
+.sec1card{
+    text-align: justify;
+}
+.sec2card{
+    text-align: justify;
+}
+.back-btn{
+    padding: 15px 50px;
+    background-color: #f2b035;
+    color: black;
+    border: none;
+    font-size: larger;
+}
+.printBtn{
+    margin-left: 11em;
+    padding: 15px 50px;
+    /* margin: 10px; */
+    font-size: larger;
+}

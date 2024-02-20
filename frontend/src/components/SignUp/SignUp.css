@@ -1,0 +1,15 @@
+/* .signup{
+    background-color: #353D68;
+} */
+
+.signup:hover{
+    background-color: #FF8261;
+}
+
+.signup-container .quick{
+    color:#353D68;
+}
+
+.signup-container .fleet{
+    color: #FF8261;
+}

@@ -1,0 +1,56 @@
+.delivery-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 2em;
+    color: #ffff;
+    border:  3px solid #ffff;
+    background-color: #272D55 !important;
+}
+
+.deliveryformCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+}
+.deliveryformCard1{
+    background-color: #F29E38 !important;
+    margin-top: 2em;
+}
+.deliveryformCard2{
+    background-color: #FF8261 !important;
+}
+
+.deliveryformCard3{
+    background-color: #F29E38 !important;
+}
+
+
+.deliveryformimg{
+    margin-top: .5em;
+    background-color: #f2b035;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1.5em;
+    margin-bottom: .5em;
+    border-radius: 50%;
+    height: 12em;
+}
+
+.deliveryImg{
+    object-fit: cover;
+}
+
+.deliveryBtn{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+/* button{
+
+} */
